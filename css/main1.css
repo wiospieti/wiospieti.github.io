@@ -151,7 +151,7 @@
 
 /* Loader */
 
-	@-moz-keyframes spinner-show {
+	/*@-moz-keyframes spinner-show {
 		0% {
 			opacity: 0;
 		}
@@ -393,7 +393,7 @@
 			opacity: 0;
 			z-index: -1;
 		}
-	}
+	}*/
 
 	body {
 		text-decoration: none;
