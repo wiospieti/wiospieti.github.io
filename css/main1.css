@@ -1843,7 +1843,7 @@
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("../../images/a01.jpg");
+		background: url("images/overlay.png"), url("images/a01.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -1853,7 +1853,7 @@
 /* One */
 
 	#one {
-		background: url("images/overlay.png"), url("../../images/a02.jpg");
+		background: url("images/overlay.png"), url("images/a02.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -1862,7 +1862,7 @@
 /* Two */
 
 	#two {
-		background: url("images/overlay.png"), url("../../images/a03.jpg");
+		background: url("images/overlay.png"), url("images/a03.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -1980,6 +1980,6 @@ input[type="button"],
 			input[type="submit"].style2.down,
 			input[type="reset"].style2.down,
 			.button.style2.down,
-			/*button.style2.down {
+			button.style2.down {
 				background-image: url("images/arrow.svg");
-			}*/
+			}
